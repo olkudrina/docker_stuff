@@ -1,0 +1,9 @@
+chromedriver-autoinstaller==0.4.0
+greenlet==1.1.2
+pandas
+selenium
+SQLAlchemy
+urllib3
+webdriver-manager
+xlrd
+psycopg2
